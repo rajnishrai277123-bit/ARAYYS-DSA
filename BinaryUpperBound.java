@@ -21,7 +21,7 @@ public class BinaryUpperBound{
         int arr[]={6,1,5,6,9,0};
         int target=1;
       int ans=  UpperBound(arr,target);
-        System.out.println("printing the array" +" "+ans);
+        System.out.println("printing the array by alter" +" "+ans);
       
 
     }
