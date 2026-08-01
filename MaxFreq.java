@@ -29,6 +29,7 @@ public class MaxFreq {
     public static void main(String[] args) {
 
         int[] arr = {1, 4, 8, 4, 9};
+        System.out.println("Answer is ready")
 
         System.out.println(frequency(arr));
     }
